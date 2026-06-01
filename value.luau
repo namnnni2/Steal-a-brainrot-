@@ -1,4 +1,4 @@
-return = {
+return {
   ["6️⃣7️⃣"] = "67",
   ["🎲"] = "Lucky Blocks",
   ["🍢"] = "Agarrini La Palini",
